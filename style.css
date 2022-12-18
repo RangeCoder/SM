@@ -1,0 +1,51 @@
+.head-1 {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+
+.head-3 {
+    margin: -17px 0px;
+}
+
+.background {
+    background: rgba(0, 0, 0, 0.7) url("images/bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center center;
+}
+
+.davlogo {
+    height: 30px;
+    ;
+}
+
+.conthead {
+    text-align: center;
+}
+
+.contact-head {
+    text-align: center;
+}
+
+.hr-line {
+    border: 2px solid black;
+}
+
+.navbar {
+    cursor: pointer;
+}
+
+.down-link {
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    border-radius: 100px;
+    padding: 5px;
+    margin-top: -23px;
+}
+.built-by{
+    margin-top: -18px;
+}
